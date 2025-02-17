@@ -44,6 +44,8 @@ The CSV file includes the following columns:
 - Shift Duration
 - Base Pay
 
+![image alt](https://github.com/Anirudh-bn/Web_Scraping/blob/061075e997542fa59d222fb39e52de2138c29368/CSV_File.jpeg)
+
 
 
 
