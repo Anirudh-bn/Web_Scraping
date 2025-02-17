@@ -44,10 +44,6 @@ The CSV file includes the following columns:
 - Shift Duration
 - Base Pay
 
-## License
-MIT License
-
----
 
 
 
