@@ -12,8 +12,7 @@ A Python web scraper that extracts job listings from Cedars-Sinai's career websi
   - Shift information and base pay
   - Full job description and qualifications
 - Exports data to CSV with timestamp
-- Respects server by implementing delays between requests
-- Handles errors gracefully
+
 
 ## Requirements
 ```
