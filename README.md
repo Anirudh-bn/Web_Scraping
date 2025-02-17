@@ -20,6 +20,23 @@ beautifulsoup4>=4.9.3
 requests>=2.25.1
 ```
 
+## How It Works
+The scraper operates in three main steps:
+
+1. **Extraction** (`extract` function):
+   - Makes HTTP requests to Cedars-Sinai careers website
+   - Uses BeautifulSoup to parse the HTML content
+
+2. **Transformation** (`transform` function):
+   - Extracts job details from each listing
+   - Processes raw HTML into structured data
+   - Handles error cases and missing data
+
+3. **Export** (`export_to_csv` function):
+   - Saves the structured data to a CSV file
+   - Includes timestamp in filename for tracking
+   - Handles UTF-8 encoding for special characters
+
 
 The script will:
 1. Scrape all available jobs from the Cedars-Sinai careers website
