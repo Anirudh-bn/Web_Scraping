@@ -1,7 +1,7 @@
 # File: README.md
 # Cedars-Sinai Job Scraper
 
-A Python web scraper that extracts job listings from Cedars-Sinai's career website and exports them to CSV.
+A Python web scraper script that extracts job listings from Cedars-Sinai's career website and exports them to CSV.
 
 ## Features
 - Scrapes detailed job information including:
@@ -21,13 +21,8 @@ requests>=2.25.1
 ```
 
 ## Installation
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/cedars-sinai-scraper.git
-cd cedars-sinai-scraper
-```
 
-2. Install required packages:
+1. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
