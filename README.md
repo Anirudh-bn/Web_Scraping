@@ -35,7 +35,7 @@ The scraper operates in three main steps:
 3. **Export** (`export_to_csv` function):
    - Saves the structured data to a CSV file
    - Includes timestamp in filename for tracking
-   - Handles UTF-8 encoding for special characters
+ 
 
 
 The script will:
